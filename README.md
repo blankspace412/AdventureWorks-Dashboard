@@ -45,10 +45,10 @@ Product Strategy: Identify high-performing products and optimize inventory.
 Regional Planning: Evaluate sales distribution across territories for strategic expansion.
 
 6. Snapshots/ Demos:
-   This is how the dashboard looks like -
-   Snapshot 1 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
-   Snapshot 2 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png
-   Snapshot 3 -
-   Snapshot 4 - 
+This is how the dashboard looks like -
+Snapshot 1 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+Snapshot 2 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png
+Snapshot 3 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%203.png
+Snapshot 4 - 
    
 
