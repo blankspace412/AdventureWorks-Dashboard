@@ -47,5 +47,8 @@ Regional Planning: Evaluate sales distribution across territories for strategic 
 6. Snapshots/ Demos:
    This is how the dashboard looks like -
    Snapshot 1 - https://github.com/blankspace412/AdventureWorks-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+   Snapshot 2 -
+   Snapshot 3 -
+   Snapshot 4 - 
    
 
